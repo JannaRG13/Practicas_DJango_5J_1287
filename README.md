@@ -2,7 +2,7 @@
 Se realizan practicas de DJango, un Framework marco de trabajo UII.
 
 - 1 - Crear carpeta de trabajo -->  cbtis128_5J_1287
-- 2 - Abrir caroeta en Vs Code
+- 2 - Abrir carpeta en Vs Code
 - 3 - Link de referencia -->   https://code.visualstudio.com/docs/python/tutorial-django
 - 4 - Abrir terminal vs code
 - 5 - Verificar que este instalado Python  -->   python --version
