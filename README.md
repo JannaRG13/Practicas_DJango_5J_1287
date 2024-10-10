@@ -15,3 +15,6 @@ Se realizan practicas de DJango, un Framework marco de trabajo UII.
 - 12 - Ejecutar el servidor -->  python manage.py runserver
 - 13 - Realizar migracion --> python manage.py migrate
 - 14 - Vuelve a ejecutar servidor 
+
+# DBDESIGNER
+- ![image](https://github.com/user-attachments/assets/ebe881c5-b7f8-4552-b9fa-a504fda1895a)
